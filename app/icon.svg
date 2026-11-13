@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-23 -1 142 144">
+  <defs>
+    <radialGradient id="f" cx=".45" cy=".55" r=".6"><stop offset="0" stop-color="#FBB034"/><stop offset="1" stop-color="#F37A30"/></radialGradient>
+    <radialGradient id="r" cx=".7" cy=".45" r=".7"><stop offset="0" stop-color="#F7883A"/><stop offset=".45" stop-color="#E9323A"/><stop offset="1" stop-color="#E52E36"/></radialGradient>
+    <radialGradient id="b" cx=".55" cy=".55" r=".6"><stop offset="0" stop-color="#00E4FF"/><stop offset="1" stop-color="#0A6CF1"/></radialGradient>
+  </defs>
+  <rect x="-23" y="-1" width="142" height="144" rx="28" fill="#fff"/>
+  <path fill="#00A651" d="M10 69C1 82 1 100 6 110c8 18 24 31 41 31 19 0 35-12 42-29 5-12 4-30-2-42 3 14 3 28-2 39-7 15-22 25-38 25s-30-10-37-24c-5-11-6-28 0-41Z"/>
+  <path fill="url(#r)" d="M34 53C20 66 12 82 13 97c2 19 19 31 37 30 12 0 20-4 25-10-11 4-25 4-35-4-10-7-14-19-14-29 0-12 3-22 8-31Z"/>
+  <path fill="url(#b)" d="M64 55c14 11 22 25 21 39-1 14-15 24-37 22 12-3 22-10 24-22 1-12-2-26-8-39Z"/>
+  <path fill="url(#f)" d="M46 0c10 10 16 22 15 38-1 14-11 22-17 32-6 10-8 22-5 40-8-10-11-20-10-32 1-14 9-24 15-34S52 20 46 0Z"/>
+</svg>
